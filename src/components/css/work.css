@@ -1,0 +1,23 @@
+.col{
+    margin:0.4;
+}
+#awarddiv{
+    box-shadow:  rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+    border-radius: 10px;
+
+}
+#img1{
+    width:90%;
+    margin-left: 1rem;}
+
+#img1:hover {
+    transform: translate(0px,-20px);
+}
+#img2{
+    width:40px; 
+    margin-left: 20px; 
+}
+#img3{
+    width:50%;
+    margin-left:1rem
+}
